@@ -1,6 +1,6 @@
 
 goal_state = [[5,1,4],[0,3,2],[7,6,8]]  # 0 is blank 
-initial_state = [[1,3,4],[5,2,0],[7,6,8]]
+initial_state = [[1,3,4],[5,6,0],[7,6,8]]
 
 
 from copy import deepcopy
