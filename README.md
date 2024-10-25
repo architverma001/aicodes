@@ -1,1 +1,1 @@
-readme addes
+Some codes for searching algorithms
